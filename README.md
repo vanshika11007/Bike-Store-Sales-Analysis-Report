@@ -12,8 +12,6 @@ SQL was used for data extraction, transformation, and analysis. Multiple SQL vie
 
 - SQL
 - Microsoft Excel
-- Pivot Tables
-- Pivot Charts
 - Data Visualization
 
 ---
